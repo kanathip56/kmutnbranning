@@ -11,7 +11,7 @@
             box-sizing: border-box;
         }
         .gradient-bg {
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            background: linear-gradient;
         }
         .card-shadow {
             box-shadow: 0 10px 25px rgba(0,0,0,0.1);
